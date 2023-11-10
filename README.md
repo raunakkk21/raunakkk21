@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Amazon Web services**
 
-- 🌱 I’m currently learning **Python | AWS |CSE**
+- 🌱 I’m currently learning **Python | AWS | 5G**
 
 - 📫 How to reach me **raunakmaurya3@gmail.com**
 
